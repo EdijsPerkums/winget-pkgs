@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2025/Mar/11
+# Automatically updated by the winget bot at 2025/Aug/07
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 
 PackageIdentifier: FxSound.FxSound
@@ -20,8 +20,8 @@ Tags:
 - equalizer
 - sound
 ReleaseNotes: |-
-  1. Fixed the unhandled exception and crash in the application after installation
-  2. Correction in Swedish translation
+  1. Removed mono device support
+  2. Changes to preferred device feature
 ReleaseNotesUrl: https://github.com/fxsound2/fxsound-app/releases/tag/latest
 ManifestType: defaultLocale
 ManifestVersion: 1.10.0

@@ -1,0 +1,22 @@
+# Created with YamlCreate.ps1 Dumplings Mod
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+
+PackageIdentifier: Belarc.Advisor
+PackageVersion: 13.1.0.0
+InstallerType: exe
+InstallModes:
+- interactive
+- silent
+InstallerSwitches:
+  Silent: /S
+  SilentWithProgress: /S
+UpgradeBehavior: install
+FileExtensions:
+- bci
+ProductCode: Belarc Advisor
+Installers:
+- Architecture: x86
+  InstallerUrl: https://downloads.belarc.com/advisor/advisorinstaller.exe
+  InstallerSha256: 34DA0EDF6B6621A50D7AE334215CE46E0BD47343A785EF850723E367AB0BE0F9
+ManifestType: installer
+ManifestVersion: 1.10.0
