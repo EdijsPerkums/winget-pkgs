@@ -9,14 +9,14 @@ ProductCode: kapman
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-734-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: C20F1879CC1579E1F603318CC54E69A98648120BBB0DB7770537EDDE7A538C8A
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-787-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 6DDCCE7E5B9B43E93DED30AFB669FBC8EF491C7AA8056B66B4BC06D3CBDD42C1
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-734-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: C20F1879CC1579E1F603318CC54E69A98648120BBB0DB7770537EDDE7A538C8A
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-787-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 6DDCCE7E5B9B43E93DED30AFB669FBC8EF491C7AA8056B66B4BC06D3CBDD42C1
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
