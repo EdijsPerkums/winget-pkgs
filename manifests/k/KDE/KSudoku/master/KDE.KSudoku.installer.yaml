@@ -9,14 +9,14 @@ ProductCode: ksudoku
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-1027-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: A8121C62B9FF81AAE0FF3A5411EC17E52E9331B4CBA21681CD34A01CFC94F3C2
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-1044-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 36E5D52C4C8DBDA8B6787C3EA6D5D41868960505A6A29D5CD1095E60570E638E
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-1027-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: A8121C62B9FF81AAE0FF3A5411EC17E52E9331B4CBA21681CD34A01CFC94F3C2
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/ksudoku/master/windows/ksudoku-master-1044-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 36E5D52C4C8DBDA8B6787C3EA6D5D41868960505A6A29D5CD1095E60570E638E
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
