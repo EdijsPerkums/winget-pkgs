@@ -6,17 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: kreversi
+ReleaseDate: 2026-09-14
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-867-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 06E0F283D5BCA378724B55A2E3DF041EFC1F8F26C5F360A15F06B5615EF349FF
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-957-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: CCEEEF31D16DAC6A283928B304336C08A9EE6D0669690A416E078B384788EC81
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-867-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 06E0F283D5BCA378724B55A2E3DF041EFC1F8F26C5F360A15F06B5615EF349FF
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kreversi/master/windows/kreversi-master-957-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: CCEEEF31D16DAC6A283928B304336C08A9EE6D0669690A416E078B384788EC81
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
