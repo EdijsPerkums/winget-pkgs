@@ -1,5 +1,5 @@
-# Automatically updated by the winget bot at 2026/Jul/03
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Automatically updated by the winget bot at 2026/Oct/30
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 
 PackageIdentifier: DigitalExtremes.Warframe
 PackageVersion: 1.0.0
@@ -20,6 +20,6 @@ InstallationMetadata:
 Installers:
 - Architecture: x64
   InstallerUrl: https://content.warframe.com/dl/Warframe.msi
-  InstallerSha256: 08F9C888A833812209742DD082D21330497BB7C84D0E007B939AF3F1917FC729
+  InstallerSha256: D6C37AE5BC98FA4715871C8E7A338E628295CDCF415D225A1E683BEC46111DAE
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0
